@@ -23,3 +23,5 @@ Then, we can run the following command to plot the corresponding Mandelbrot Set:
 ```julia
 PlotMandelConvergence(coeffs)
 ```
+
+See MandelEx2.png and MandelEx3.png for more examples of beautiful fractals. 
