@@ -66,4 +66,4 @@ function PlotMandelConvergence(Coeffs)
   M
 end
 
-PlotMandelConvergence([0.0+0.0im, 0.0+0.0im, 0.0+0.0im, 0.0+0.0im,0.0+0.0im,0.0+0.0im,1.0 + 0.0im])
+#PlotMandelConvergence(ceoffs) <- use this to run program 
